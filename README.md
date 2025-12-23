@@ -15,4 +15,4 @@ An interactive Excel Dashboard consolidates production, engagenment, and iterati
 
 ## Repository Structure 
 - `images/` - Dashboard screenshot for preview
-- - `excel/` — [Crochet_Analytics.xlsx](https://github.com/user-attachments/files/24303733/Crochet_Analytics.xlsx)
+- `excel/` — [Crochet_Analytics.xlsx](https://github.com/user-attachments/files/24303733/Crochet_Analytics.xlsx)
