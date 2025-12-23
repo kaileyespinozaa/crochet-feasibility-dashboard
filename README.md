@@ -1,5 +1,5 @@
 # I Hate Monetizing My Art: A Crochet Feasibility & Creative Analysis
-This project examines the financial feasbility of crochet-based apparel a **non-mechanizable production process** using data visualization and exploratory analysis.
+This project examines the financial feasbility of crochet-based apparel as a **non-mechanizable production process** using data visualization and exploratory analysis.
 An interactive Excel Dashboard consolidates production, engagenment, and iteration variables into a single analytical view. 
 
 ## Dashboard Preview
