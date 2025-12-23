@@ -8,10 +8,10 @@ An interactive Excel Dashboard consolidates production, engagenment, and iterati
 ![Dashboard detail](images/dashboard_detail.png)
 
 ## What the dashboard examines 
-- Labor time and design complexity across garment categories
-- Ethical price versus market price comparisons
-- Labor-material cost shares
-- Engagement patterns relative to production effort
+- Labor time and design complexity across garment categories.
+- Ethical price versus market price comparisons.
+- Labor-material cost shares.
+- Engagement patterns relative to production effort.
 
 ## Repository Structure 
 - `images/` - Dashboard screenshot for preview
