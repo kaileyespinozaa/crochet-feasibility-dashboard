@@ -14,5 +14,5 @@ An interactive Excel Dashboard consolidates production, engagenment, and iterati
 - Engagement patterns relative to production effort
 
 ## Repository Structure 
-- `excel/` — [Crochet_Analytics.xlsx](https://github.com/user-attachments/files/24303733/Crochet_Analytics.xlsx)
 - `images/` - Dashboard screenshot for preview
+- - `excel/` — [Crochet_Analytics.xlsx](https://github.com/user-attachments/files/24303733/Crochet_Analytics.xlsx)
