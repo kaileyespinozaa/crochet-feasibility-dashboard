@@ -3,7 +3,7 @@ This project examines the financial feasibility of crochet-based apparel as a **
 An interactive Excel Dashboard consolidates production, engagenment, and iteration variables into a single analytical view. 
 
 ## Process & Design Portfolio (Adobe):
-[Link Text](https://kaileyespinozaa.myportfolio.com)
+[Adobe Portfolio](https://kaileyespinozaa.myportfolio.com)
 
 ## Dashboard Preview
 
