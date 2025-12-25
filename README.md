@@ -2,6 +2,9 @@
 This project examines the financial feasibility of crochet-based apparel as a **non-mechanizable production process** using data visualization and exploratory analysis.
 An interactive Excel Dashboard consolidates production, engagenment, and iteration variables into a single analytical view. 
 
+##Process & Design Portfolio (Adobe):
+https://kaileyespinozaa.myportfolio.com
+
 ## Dashboard Preview
 
 ![Dashboard overview](images/dashboard_overview.png)
